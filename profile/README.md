@@ -1,6 +1,6 @@
 # 👋 Welcome to SafeDep
 
-![SafeDep Banner – Add yours here](../assets/banner.png)
+![SafeDep Banner](../assets/banner.png)
 
 ## ⚡️ Protect Your Code. Stop Malicious Packages.
 
