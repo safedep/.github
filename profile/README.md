@@ -1,36 +1,41 @@
-# 👋 Welcome to SafeDep
+<div align="center">
 
-![SafeDep Banner](../assets/banner.png)
+<img src="../assets/banner.png" alt="SafeDep Banner" width="100%" />
 
-## ⚡️ Protect Your Code. Stop Malicious Packages.
+### <img src="https://icongr.am/fontawesome/shield.svg?size=16&color=06b6d4" alt="shield" valign="middle" /> Protect Your Code. Stop Malicious Packages.
 
-We scan the **code you didn’t write** — before it reaches your codebase.
-SafeDep protects you from malicious code hidden in open source packages you install every day.
+> We scan the **code you didn’t write** — before it reaches your codebase.
 
----
+[![Website](https://img.shields.io/badge/Website-safedep.io-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://safedep.io)
+[![Vet Tool](https://img.shields.io/badge/GitHub-vet_tool-0D9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safedep/vet)
 
-### 🚀 Get Started
+<br/>
 
-- 🌐 Explore our website: [safedep.io](https://safedep.io)
-- 🔒 Secure your supply chain with [vet](https://github.com/safedep/vet)
+SafeDep protects you from malicious code hidden in the open source packages you install every day.
+**Secure your supply chain with [vet](https://github.com/safedep/vet).**
+
+</div>
 
 ---
 
 ### 💡 Why SafeDep?
 
-- ✅ Detect malicious packages in real-time
-- ✅ Protect your builds and CI/CD pipelines
-- ✅ Reduce risks from compromised dependencies
-- ✅ Open source tooling, trusted by developers
+| <img src="https://icongr.am/fontawesome/bolt.svg?size=20&color=06b6d4" alt="bolt" valign="middle" /> Real-time Detection | <img src="https://icongr.am/fontawesome/cogs.svg?size=20&color=06b6d4" alt="cogs" valign="middle" /> CI/CD Native |
+| :--- | :--- |
+| Detect malicious packages instantly before they enter your dependency tree. | Protect your builds and pipelines automatically with our open-source tooling. |
+
+| <img src="https://icongr.am/fontawesome/fire-extinguisher.svg?size=20&color=06b6d4" alt="chart" valign="middle" /> Risk Reduction | <img src="https://icongr.am/fontawesome/users.svg?size=20&color=06b6d4" alt="users" valign="middle" /> Community Trusted |
+| :--- | :--- |
+| Drastically reduce risks from compromised dependencies and typosquatting. | Open source tooling, trusted by developers and security engineers worldwide. |
 
 ---
 
-### 🤝 Join Us
+<div align="center">
 
-- ⭐ Star our repos to support the project
-- 🐛 Contribute, open issues, and share feedback
-- 📢 Stay updated with our work in open source security
+### 🤝 Join the Mission
 
----
+We are securing the ecosystem **one package at a time**.
 
-> 📝 *SafeDep is here to secure the open source ecosystem — one package at a time.*
+[<img src="https://icongr.am/fontawesome/star.svg?size=16&color=06b6d4" alt="star" valign="middle" /> Star our Repos](https://github.com/safedep/vet) • [<img src="https://icongr.am/fontawesome/bug.svg?size=16&color=06b6d4" alt="bug" valign="middle" /> Report Issues](https://github.com/safedep/vet/issues) • [<img src="https://icongr.am/fontawesome/comments.svg?size=16&color=06b6d4" alt="comments" valign="middle" /> Discussions](https://github.com/orgs/safedep/discussions)
+
+</div>
