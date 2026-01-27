@@ -2,17 +2,16 @@
 
 <img src="../assets/banner.png" alt="SafeDep Banner" width="100%" />
 
-### <img src="https://icongr.am/fontawesome/shield.svg?size=16&color=06b6d4" alt="shield" valign="middle" /> Protect Your Code. Stop Malicious Packages.
+### <img src="https://icongr.am/fontawesome/shield.svg?size=18&color=06b6d4" alt="shield" valign="middle" /> Protect Your Code. Stop Malicious Packages.
 
 > We scan the **code you didn’t write** — before it reaches your codebase.
 
 [![Website](https://img.shields.io/badge/Website-safedep.io-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://safedep.io)
-[![Vet Tool](https://img.shields.io/badge/GitHub-vet_tool-0D9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safedep/vet)
 
 <br/>
 
-SafeDep protects you from malicious code hidden in the open source packages you install every day.
-**Secure your supply chain with [vet](https://github.com/safedep/vet).**
+SafeDep protects you from [malicious](https://www.indusface.com/blog/vulnerability-vs-malware-difference/) code hidden in the open source packages you install every day.
+**Secure your supply chain with [PMG](https://github.com/safedep/pmg) & [VET](https://github.com/safedep/vet).**
 
 </div>
 
@@ -24,7 +23,7 @@ SafeDep protects you from malicious code hidden in the open source packages you 
 | :--- | :--- |
 | Detect malicious packages instantly before they enter your dependency tree. | Protect your builds and pipelines automatically with our open-source tooling. |
 
-| <img src="https://icongr.am/fontawesome/fire-extinguisher.svg?size=20&color=06b6d4" alt="chart" valign="middle" /> Risk Reduction | <img src="https://icongr.am/fontawesome/users.svg?size=20&color=06b6d4" alt="users" valign="middle" /> Community Trusted |
+| <img src="https://icongr.am/fontawesome/fire-extinguisher.svg?size=20&color=06b6d4" alt="fire-extinguisher" valign="middle" /> Risk Reduction | <img src="https://icongr.am/fontawesome/users.svg?size=20&color=06b6d4" alt="users" valign="middle" /> Community Trusted |
 | :--- | :--- |
 | Drastically reduce risks from compromised dependencies and typosquatting. | Open source tooling, trusted by developers and security engineers worldwide. |
 
