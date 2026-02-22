@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: SafeDep Community Support
+    url: https://github.com/safedep/vet/discussions
+    about: Get help from the SafeDep community
+  - name: SafeDep Documentation
+    url: https://docs.safedep.io
+    about: Check if your question is already answered in our documentation
