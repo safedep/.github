@@ -2,7 +2,7 @@
 
 <img src="../assets/banner.png" alt="SafeDep Banner" width="100%" />
 
-### 🛡️ Protect Your Code. Stop Malicious Packages.
+### Protect Your Code. Stop Malicious Packages.
 
 > We scan the **code you didn’t write** — before it reaches your codebase.
 
@@ -17,13 +17,13 @@ SafeDep protects you from [malicious](https://www.indusface.com/blog/vulnerabili
 
 ---
 
-### 💡 Why SafeDep?
+### Why SafeDep?
 
-| ⚡ Real-time Detection | ⚙️ CI/CD Native |
+| Real-time Detection | CI/CD Native |
 | :--- | :--- |
 | Detect malicious packages instantly before they enter your dependency tree. | Protect your builds and pipelines automatically with our open-source tooling. |
 
-| 🧯 Risk Reduction | 👥 Community Trusted |
+| Risk Reduction | Community Trusted |
 | :--- | :--- |
 | Drastically reduce risks from compromised dependencies and typosquatting. | Open source tooling, trusted by developers and security engineers worldwide. |
 
@@ -31,10 +31,10 @@ SafeDep protects you from [malicious](https://www.indusface.com/blog/vulnerabili
 
 <div align="center">
 
-### 🤝 Join the Mission
+### Join the Mission
 
 We are securing the ecosystem **one package at a time**.
 
-[⭐ Star our Repos](https://github.com/safedep/vet) • [🐛 Report Issues](https://github.com/safedep/vet/issues) • [💬 Discussions](https://github.com/orgs/safedep/discussions)
+[Star our Repos](https://github.com/safedep/vet) • [Report Issues](https://github.com/safedep/vet/issues) • [Discussions](https://github.com/orgs/safedep/discussions)
 
 </div>
